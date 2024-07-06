@@ -261,6 +261,26 @@ function App() {
         výuku, měla by začít vyučovat technologie, které nbudou reálným přínosem
         pro studenty a ne jen pro firmu Unicorn.
       </p>
+      <h3>Shrnutí po úspěšném ukončení studia</h3>
+      <p>
+        Po třech letech jsem úspěšně dokončil bakalářský stupeň studia na
+        Unicorn University. Stojím si za tím, že předměty jsou až moc zaměřené
+        tak, aby se studenti naučili technologie specifické pro Unicorn. Státní
+        závěrečné zkoušky jsou více obecné a to i u části ze softwarového
+        vývoje. U matematiky a algoritmizace by to snad ani jinak nešlo. Otázkou
+        tedy zůstává, proč škola nevyučuje předměty více obecně, když u státních
+        závěrečných zkoušek se Unicorn technologie neobjevují. Rozumím zaměření
+        na praxi ale myslím si, že využití známých frameworků by dávalo větší
+        smysl.{" "}
+      </p>
+      <p>
+        Věřím, že pokud by škola začala vyučovat technologie, které jsou více
+        rozšířené, tak by to zvedlo její úroveň a i pro studenty by to bylo více
+        přínosné. Přeci jen i firma Unicorn nevyvíjí pouze ve svém frameworku.
+        Pokud by se tak skutečně stalo a pominu častokrát tristní komunikaci se
+        studijním oddělením a zbytečně mnoho semestrů, kdy je potřeba si zapsat
+        angličtinu, klidně bych školu i doporučil.
+      </p>
     </>
   );
 }
