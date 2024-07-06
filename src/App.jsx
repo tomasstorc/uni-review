@@ -280,7 +280,7 @@ function App() {
         přínosné. Přeci jen i firma Unicorn nevyvíjí pouze ve svém frameworku.
         Pokud by se tak skutečně stalo a pominu častokrát tristní komunikaci se
         studijním oddělením a zbytečně mnoho semestrů, kdy je potřeba si zapsat
-        angličtinu, klidně bych školu i doporučil.
+        angličtinu, klidně bych školu doporučil.
       </p>
     </>
   );
