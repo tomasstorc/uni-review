@@ -280,6 +280,12 @@ function App() {
         smysl.{" "}
       </p>
       <p>
+        Rád bych zde vyzdvihl studijní materiály k státním závěrečným zkouškám z
+        matematiky, které jsou zpracovány formou videi a při učení mi opravdu
+        pomohly. Pokud by takto byly zpracovány všechny materiály bylo by to
+        skvělé.
+      </p>
+      <p>
         Věřím, že pokud by škola začala vyučovat technologie, které jsou více
         rozšířené, tak by to zvedlo její úroveň a i pro studenty by to bylo více
         přínosné. Přeci jen i firma Unicorn nevyvíjí pouze ve svém frameworku.
