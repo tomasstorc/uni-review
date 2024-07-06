@@ -4,6 +4,7 @@ function App() {
   return (
     <>
       <h1>Recenze Unicorm University po dvou letech studia</h1>
+      <h2>EDIT: Dopsána kapitola po úspěšném ukončení studia.</h2>
       <h2>Úvod</h2>
       <p>
         Pokusím se popsat své dojmy a zkušenosti ze dvou let studia na Unicorn
