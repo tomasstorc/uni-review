@@ -4,7 +4,12 @@ function App() {
   return (
     <>
       <h1>Recenze Unicorm University po dvou letech studia</h1>
-      <h2>EDIT: Dopsána kapitola po úspěšném ukončení studia.</h2>
+      <h2>
+        EDIT: Dopsána kapitola po úspěšném ukončení studia.{" "}
+        <a style={{ textDecoration: "none" }} href="#after">
+          LINK
+        </a>
+      </h2>
       <h2>Úvod</h2>
       <p>
         Pokusím se popsat své dojmy a zkušenosti ze dvou let studia na Unicorn
@@ -262,7 +267,7 @@ function App() {
         výuku, měla by začít vyučovat technologie, které nbudou reálným přínosem
         pro studenty a ne jen pro firmu Unicorn.
       </p>
-      <h3>Shrnutí po úspěšném ukončení studia</h3>
+      <h3 id="after">Shrnutí po úspěšném ukončení studia</h3>
       <p>
         Po třech letech jsem úspěšně dokončil bakalářský stupeň studia na
         Unicorn University. Stojím si za tím, že předměty jsou až moc zaměřené
